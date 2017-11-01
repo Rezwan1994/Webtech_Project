@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.photo img
+{
+    width: 100%;
+    height: auto;
+}
+
+h1,h2,h3,h4,h5,p {
+    margin-top:0px;
+    margin-bottom: 10px;
+    background-color: 1BBC9B;
+}
+
+
+a , a:hover{
+    text-decoration: none;
+    
+}
+.wrapper{
+    
+    margin: 0 auto;
+       font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    color: #444;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.header{
+  
+    width: 100%;
+    height: 70px;
+    
+}
+.header_list {
+    padding-right: 20px;
+    padding-top: 15px;
+}
+.header_list ul{
+     display: block;
+}
+.header_list ul li{
+   display: inline-block;
+   
+}
+.header_list ul li a{
+    display: block;
+    text-transform: uppercase;
+    color: #444;
+    padding: 12px;
+    font-size: 14px;
+
+}
+.header_list ul li a:hover{
+    background-color: #1BBC9B;
+    color: #fff;
+}
+.logo {
+    padding-left: 20px;
+    padding-top: 15px;
+}
+.main_content{
+  
+    width: 100%;
+    height: 550px;
+}
+.content1{
+    
+    height: 550px;
+    width: 25%;
+    float: left;
+}
+.photo_area{
+    width: 200px;
+    padding: 20px;
+}
+.photo{
+    width: 200px;
+    height: 200px;
+    background-color: #ddd;
+}
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 5px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.file_area {
+    padding: 20px;
+    font-size: 16px;
+}
+.select_subject {
+    margin-top: 20px;
+}
+.file_upload {
+    margin-top: 40px;
+}
+.submit_file {
+    margin-top: 30px;
+    text-align: center;
+}
+button {
+    padding: 5px 20px;
+}
+.content2{
+   
+    height: 550px;
+    width: 50%;
+    float: left;
+    text-align: center;
+     background-color: 1BBC9B;
+ 
+
+}
+.
+.content3{
+    background-color:white;
+    height: 550px;
+    width: 25%;
+    float: left;
+}
+.footer_area{
+    background-color: green;
+    width: 100%;
+    height: 60px;
+    clear: both;
+    text-align: center;
+}
+.footer{
+    padding-top: 20px;
+    color: #fff;
+}
+
+.logo img {
+    width: 80px;
+    height: 50px;
+}
+.profileInfo {
+    padding: 80px;
+    text-transform: uppercase;
+}
+.profileInfo h1
+{
+    border-bottom: 1px solid #C6C6C6;
+    color: blue;
+    padding-bottom: 20px;
+}
+
+
+

@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.photo img
+{
+    width: 100%;
+    height: auto;
+}
+
+h1,h2,h3,h4,h5,p {
+    margin-top:0px;
+    margin-bottom: 10px;
+}
+
+
+a , a:hover{
+    text-decoration: none;
+    
+}
+.wrapper{
+    
+    margin: 0 auto;
+       font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    color: #444;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.header{
+  
+    width: 100%;
+    height: 70px;
+    
+}
+.header_list {
+    padding-right: 20px;
+    padding-top: 15px;
+}
+.header_list ul{
+     display: block;
+}
+.header_list ul li{
+   display: inline-block;
+   
+}
+.header_list ul li a{
+    display: block;
+    text-transform: uppercase;
+    color: #444;
+    padding: 12px;
+    font-size: 14px;
+
+}
+
+.form-content {
+    padding-left: 210px;
+    padding-top: 150px;
+}
+.header_list ul li a:hover{
+    background-color: #1BBC9B;
+    color: #fff;
+}
+.logo {
+    padding-left: 20px;
+    padding-top: 15px;
+}
+.main_content{
+  
+    width: 100%;
+    height: 700px;
+}
+.content1{
+    
+  height: 700px;
+    width: 25%;
+    float: left;
+}
+.massage{
+    text-align: center;
+}
+.massage h3{
+    color: blue;
+}
+.photo_area{
+    width: 200px;
+    padding: 20px;
+}
+.photo{
+    width: 200px;
+    height: 200px;
+    background-color: #ddd;
+}
+
+
+
+
+.logo img {
+    width: 80px;
+    height: 50px;
+}
+
+
+
+.login-area{
+    text-align: center;
+}
+.form 
+{
+ 
+  
+}
+
+.form span{
+    width: 100px;
+    height: 40px;
+    margin-top: 20px;
+ 
+}
+.form-content form {
+    border: 2px solid #C6C6C6;
+    width: 500px;
+    height: 204px;
+    padding-top: 39px;
+    text-align: center;
+    margin-left: 230px;
+    padding-bottom: 40px;
+}
+
+.form-content form input{
+    width: 300px;
+    height: 40px;
+    margin-top: 20px;
+    text-align: center;
+    color:  black;
+    
+ 
+}
+.form-content form span input{
+    color: black;
+    background-color: aqua
+}
+
+form-content {
+    padding-bottom: 160px;
+    padding-top: 117px;
+}
+.form-content  form
+{
+      border: 1px solid #DDDDDD; 
+}
+
+
